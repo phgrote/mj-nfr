@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: MJ-NFR: Neural Field Representations for State Estimation of Multi-Joint Objects
+title: "MJ-NFR: Neural Field Representations for State Estimation of Multi-Joint Objects"

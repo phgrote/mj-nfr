@@ -1,4 +1,4 @@
-# Neural Field Representations of Articulated Objects for Robotic Manipulation Planning
+# MJ-NFR: Neural Field Representations for State Estimation of Multi-Joint Objects
 
 ## Abstract
 Learning to operate complex tools and heavy machines with complex kinematic structures, 
